@@ -1,0 +1,27 @@
+
+:root{
+    --bg-color: #399918;
+    --primary-color: #FFAAAA;
+    --secondary-color: #ECFFE6;
+    --hg-color: #FF7777;
+    background-color: var(--bg-color);
+    color: var(--hg-color);
+    width: 100vw;
+    height: 500vh;
+    margin: 0;
+
+     
+
+}
+ 
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
